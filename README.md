@@ -38,3 +38,5 @@ Menambahkan sumber di Mendeley (*Soon!*)
 Membuat kutipan menggunakan Mendeley (*Soon!*)
 
 Membuat daftar pustaka menggunakan Mendeley (*Soon!*)
+
+Mengubah "et-al" emnjadi "dkk" pada Mendeley (*Soon!*)
