@@ -266,7 +266,7 @@
             </if>
           </choose>
           <group prefix=" " suffix=".">
-            <text variable="container-title" font-style="italic"/>
+            <text variable="container-title" font-style="italic" suffix=", "/>
             <group prefix=" ">
               <text variable="volume"/>
               <text variable="issue" prefix="(" suffix=")"/>
