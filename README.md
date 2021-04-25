@@ -20,3 +20,4 @@ Skripsi (*Thesis*)
 
 ## Wiki
 [Instalasi](https://github.com/mwhd96/FormatKutipan-UNJ/wiki/Format-Kutipan-UNJ-Wiki#Instalasi) 
+Penggunaan Mendeley (*Soon!*)
