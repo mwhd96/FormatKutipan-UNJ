@@ -19,5 +19,14 @@ Skripsi (*Thesis*)
 * Format penulisan sumber dari skripsi di daftar pustaka tidak terdapat nama fakultas
 
 ## Wiki
-[Instalasi](https://github.com/mwhd96/FormatKutipan-UNJ/wiki/Format-Kutipan-UNJ-Wiki#Instalasi) 
-Penggunaan Mendeley (*Soon!*)
+### [Instalasi](https://github.com/mwhd96/FormatKutipan-UNJ/wiki/Format-Kutipan-UNJ-Wiki#Instalasi) 
+
+### Frequently Aseked Question (*Soon!)
+
+### Penggunaan Mendeley (*Soon!*)
+
+Menambahkan sumber di Mendeley (*Soon!*)
+
+Membuat kutipan menggunakan Mendeley (*Soon!*)
+
+Membuat daftar pustaka menggunakan Mendeley (*Soon!*)
