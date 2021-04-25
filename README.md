@@ -15,8 +15,9 @@ Skripsi (*Thesis*)
 > Wibisono, Y.W. 1995. Perbandingan Dua Konfigurasi N-titik: Analisis Pro-crustes \[skripsi]\. Jakarta: Fakultas Teknik, Universitas Negeri Jakarta.
 
 ## Permasalahan yang diketahui (*Known Issues*)
-* **Format penulisan sumber dari skripsi di daftar pustaka tidak terdapat tempat institusi karena Mendeley tidak menyediakan variabel-nya**
+* **Format penulisan sumber dari skripsi di daftar pustaka tidak terdapat kota tempat institusi karena Mendeley tidak menyediakan variabel-nya**
 * Format penulisan sumber dari skripsi di daftar pustaka tidak terdapat nama fakultas
+> Workaround/pengakalan dari kedua masalah di atas dapat dilakukan dengan mengisi field <University> di Mendeley dengan format <Kota: Fakultas, Universitas>
 
 ## Wiki
 ### [Instalasi](https://github.com/mwhd96/FormatKutipan-UNJ/wiki/Format-Kutipan-UNJ-Wiki#Instalasi) 
