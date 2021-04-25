@@ -18,8 +18,5 @@ Skripsi (*Thesis*)
 * **Format penulisan sumber dari skripsi di daftar pustaka tidak terdapat tempat institusi karena Mendeley tidak menyediakan variabel-nya**
 * Format penulisan sumber dari skripsi di daftar pustaka tidak terdapat nama fakultas
 
-## Instalasi
-*Soon!*
-
 ## Wiki
-*Soon!*
+[Instalasi] (https://github.com/mwhd96/FormatKutipan-UNJ/wiki/Format-Kutipan-UNJ-Wiki#Instalasi) 
