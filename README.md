@@ -19,4 +19,4 @@ Skripsi (*Thesis*)
 * Format penulisan sumber dari skripsi di daftar pustaka tidak terdapat nama fakultas
 
 ## Wiki
-[Instalasi] (https://github.com/mwhd96/FormatKutipan-UNJ/wiki/Format-Kutipan-UNJ-Wiki#Instalasi) 
+[Instalasi](https://github.com/mwhd96/FormatKutipan-UNJ/wiki/Format-Kutipan-UNJ-Wiki#Instalasi) 
