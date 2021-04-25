@@ -1,5 +1,5 @@
 # FormatKutipan-UNJ
-Format citation style (CSL) untuk Mendeley berdasarkan buku panduan yang diterbitkan oleh fakultas di UNJ
+Format citation style (CSL) untuk Mendeley berdasarkan buku panduan yang diterbitkan oleh Fakultas Teknik UNJ
 
 ## Format Kutipan
 > Lorem ipsum (Yusro, 2013: 47)
