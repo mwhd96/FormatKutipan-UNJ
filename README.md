@@ -21,7 +21,7 @@ Skripsi (*Thesis*)
 ## Wiki
 ### [Instalasi](https://github.com/mwhd96/FormatKutipan-UNJ/wiki/Format-Kutipan-UNJ-Wiki#Instalasi) 
 
-### Frequently Aseked Question (*Soon!)
+### Frequently Aseked Question (*Soon!*)
 
 ### Penggunaan Mendeley (*Soon!*)
 
