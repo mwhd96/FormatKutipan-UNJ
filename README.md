@@ -14,6 +14,12 @@ Buku (*Book*)
 Skripsi (*Thesis*)
 > Wibisono, Y.W. 1995. Perbandingan Dua Konfigurasi N-titik: Analisis Pro-crustes \[skripsi]\. Jakarta: Fakultas Teknik, Universitas Negeri Jakarta.
 
-## Permasalahan yang diketahui (*Known Isssues*)
+## Permasalahan yang diketahui (*Known Issues*)
 * Penulisan "dan" pada daftar pustaka bukan berupa simbol "&"
 * Format penulisan sumber dari skripsi tidak terdapat nama fakultas
+
+## Instalasi
+*Soon!*
+
+## Wiki
+*Soon!*
