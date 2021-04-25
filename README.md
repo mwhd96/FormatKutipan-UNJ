@@ -18,6 +18,8 @@ Skripsi (*Thesis*)
 * **Format penulisan sumber dari skripsi di daftar pustaka tidak terdapat kota tempat institusi karena Mendeley tidak menyediakan variabel-nya**
 * Format penulisan sumber dari skripsi di daftar pustaka tidak terdapat nama fakultas
 > Workaround/pengakalan dari kedua masalah di atas dapat dilakukan dengan mengisi field `University` di Mendeley dengan format `Kota: Fakultas, Universitas`
+contoh:
+![workaround](https://user-images.githubusercontent.com/77978004/115985882-088e6200-a5d8-11eb-8451-46de25a5ccf6.PNG)
 
 ## Wiki
 ### [Instalasi](https://github.com/mwhd96/FormatKutipan-UNJ/wiki/Format-Kutipan-UNJ-Wiki#Instalasi) 
