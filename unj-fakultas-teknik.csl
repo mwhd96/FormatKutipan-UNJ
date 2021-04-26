@@ -271,7 +271,7 @@
         <else>
           <group prefix=" " delimiter=" " suffix=".">
             <text macro="title"/>
-            <text macro="editor"/>
+            <text macro="publisher"/>
           </group>
           <choose>
             <if type="speech">
