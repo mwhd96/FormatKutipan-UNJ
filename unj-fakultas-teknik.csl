@@ -269,7 +269,7 @@
           </group>
         </else-if>
         <else>
-          <group prefix=" " delimiter=" " suffix=".">
+          <group prefix=" " delimiter="." suffix=".">
             <text macro="title"/>
             <text macro="publisher"/>
           </group>
